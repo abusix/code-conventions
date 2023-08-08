@@ -1,0 +1,27 @@
+{
+	"name": "@abusix/eslint-config-prettier",
+	"version": "1.0.0",
+	"description": "Shared eslint prettier config for Abusix projects",
+	"main": ".eslintrc.cjs",
+	"files": [
+		".eslintrc.cjs",
+		".prettierignore",
+		".prettierrc.cjs",
+		"tsconfig.json"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {
+		"publish": "npm publish"
+	},
+	"peerDependencies": {
+		"typescript": "^5.1.6",
+		"eslint": "^8.46.0",
+		"storybook": "^7.2.1",
+		"eslint-plugin-storybook": "0.6.12"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
