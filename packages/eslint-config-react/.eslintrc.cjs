@@ -18,6 +18,12 @@ module.exports = {
         'react-hooks'
     ],
     rules: {
+        'react/jsx-curly-brace-presence': [
+            'error',
+            {
+                props: 'never',
+            }
+        ],
         'react/react-in-jsx-scope': 0,
         'react/require-default-props': 0,
         'react/function-component-definition': [
