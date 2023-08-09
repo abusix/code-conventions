@@ -3,7 +3,9 @@
 Code conventions for Abusix repos and projects. 
 
 
-## Available Eslint Packages
+## Available Config Packages
+
+**⚠️ Note: Please make sure to have the required peer dependencies installed in your project.**
 
 This repo includes these eslint packages:
 
