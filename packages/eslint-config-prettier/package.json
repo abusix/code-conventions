@@ -5,9 +5,7 @@
 	"main": ".eslintrc.cjs",
 	"files": [
 		".eslintrc.cjs",
-		".prettierignore",
-		".prettierrc.cjs",
-		"tsconfig.json"
+		".prettierignore"
 	],
 	"publishConfig": {
 		"access": "public"
@@ -16,7 +14,6 @@
 		"publish": "npm publish"
 	},
 	"peerDependencies": {
-		"typescript": "^5.1.6",
 		"eslint": "^8.46.0",
 		"eslint-plugin-prettier": "^5.0.0",
 		"eslint-config-prettier": "^9.0.0",

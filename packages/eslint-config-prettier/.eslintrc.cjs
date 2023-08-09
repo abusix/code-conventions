@@ -1,14 +1,4 @@
 module.exports = {
-    env: {
-        browser: true,
-        es2021: true,
-    },
-    parser: '@typescript-eslint/parser',
-    parserOptions: {
-        ecmaVersion: 'latest',
-        sourceType: 'module',
-        project: './tsconfig.json',
-    },
     extends: [
         'plugin:prettier/recommended',
     ],
@@ -16,6 +6,12 @@ module.exports = {
         'prettier',
     ],
     rules: {
-
+        "prettier/prettier": [
+            "error",
+            {
+                "tabWidth": 4,
+                "quoteProps": "as-needed"
+            }
+        ]
     }
 };
