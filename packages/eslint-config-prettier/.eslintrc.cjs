@@ -1,3 +1,4 @@
+// trigger release
 module.exports = {
     extends: [
         'plugin:prettier/recommended',
