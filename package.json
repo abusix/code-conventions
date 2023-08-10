@@ -1,7 +1,6 @@
 {
 	"version": "1.0.0",
 	"description": "Code convention rules for eslint and prettier for Abusix projects",
-	"main": "index.js",
 	"scripts": {
 		"publish:eslint": "npm publish --workspace @abusix/eslint-config",
 		"publish:prettier": "npm publish --workspace @abusix/prettier-config"
