@@ -5,6 +5,10 @@
 		"publish:eslint": "npm publish --workspace @abusix/eslint-config",
 		"publish:prettier": "npm publish --workspace @abusix/prettier-config"
 	},
+	"devDependencies": {
+		"semantic-release": "^21.0.7",
+		"@semantic-release/git": "^10.0.1"
+	},
 	"workspaces": [
 		"packages/*"
 	],
