@@ -7,8 +7,9 @@
 		"publish:prettier": "npm publish --workspace @abusix/prettier-config"
 	},
 	"devDependencies": {
+		"@semantic-release/git": "^10.0.1",
 		"semantic-release": "^21.0.7",
-		"@semantic-release/git": "^10.0.1"
+		"semantic-release-monorepo": "^7.0.5"
 	},
 	"workspaces": [
 		"packages/*"
