@@ -2,6 +2,7 @@
 	"version": "1.0.0",
 	"name": "code-conventions",
 	"description": "Code convention rules for eslint and prettier for Abusix projects",
+	"type": "commonjs",
 	"devDependencies": {
 		"@semantic-release/git": "^10.0.1",
 		"semantic-release": "^21.0.7",
