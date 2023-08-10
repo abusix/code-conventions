@@ -10,9 +10,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"scripts": {
-		"publish": "npm publish"
-	},
 	"peerDependencies": {
 		"eslint": "^8.46.0",
 		"eslint-plugin-prettier": "^5.0.0",

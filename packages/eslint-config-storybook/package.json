@@ -12,9 +12,6 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"scripts": {
-		"publish": "npm publish"
-	},
 	"peerDependencies": {
 		"typescript": "^5.1.6",
 		"eslint": "^8.46.0",
