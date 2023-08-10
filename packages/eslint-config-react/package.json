@@ -1,6 +1,6 @@
 {
 	"name": "@abusix/eslint-config-react",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Shared eslint react config for Abusix projects",
 	"main": ".eslintrc.cjs",
 	"files": [
