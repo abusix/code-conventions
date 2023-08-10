@@ -5,8 +5,8 @@
 	"type": "commonjs",
 	"devDependencies": {
 		"@semantic-release/git": "^10.0.1",
-		"semantic-release": "^21.0.7",
-		"semantic-release-monorepo": "^7.0.5"
+		"multi-semantic-release": "^3.0.2",
+		"semantic-release": "^21.0.7"
 	},
 	"workspaces": [
 		"packages/*"

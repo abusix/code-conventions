@@ -1,6 +1,5 @@
 {
   "branches": ["main"],
-  "extends": "semantic-release-monorepo",
   "debug": true,
   "ci": true,
   "dryRun": false,
