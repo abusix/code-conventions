@@ -1,5 +1,5 @@
 {
-	"name": "@abusix/eslint-config-prettier",
+	"name": "@abusix/eslint-config-storybook",
 	"version": "1.0.0",
 	"description": "Shared eslint prettier config for Abusix projects",
 	"main": ".eslintrc.cjs",
