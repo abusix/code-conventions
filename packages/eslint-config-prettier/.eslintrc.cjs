@@ -10,8 +10,9 @@ module.exports = {
         "prettier/prettier": [
             "error",
             {
-                "tabWidth": 4,
-                "quoteProps": "as-needed"
+                "quoteProps": "as-needed",
+                "useTabs": true,
+                "tabWidth": 2,
             }
         ]
     }
