@@ -26,5 +26,6 @@ module.exports = {
         'import/extensions': 'off',
         'no-restricted-exports': ['error', {restrictDefaultExports: {direct: true}}],
         'no-alert': 'error',
+        '@typescript-eslint/no-unused-vars': 'warn'
     }
 };
