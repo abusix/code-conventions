@@ -15,8 +15,8 @@
 	"peerDependencies": {
 		"typescript": "^5.1.6",
 		"eslint": "^8.46.0",
-		"storybook": "^7.2.1",
-		"eslint-plugin-storybook": "^0.6.13"
+		"storybook": "^7.5.2",
+		"eslint-plugin-storybook": "^0.6.15"
 	},
 	"keywords": [],
 	"author": "",
