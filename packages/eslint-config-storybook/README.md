@@ -14,6 +14,6 @@ Add the following to your `.eslintrc.js`:
 
 ```js
 module.exports = {
-  extends: ['@abusix/eslint-config-storybook'],
+  extends: ["@abusix/eslint-config-storybook"],
 };
 ```

@@ -14,5 +14,6 @@ Add the following to your `.eslintrc.js`:
 
 ```js
 module.exports = {
-  extends: ['@abusix/eslint-config-react'],
+  extends: ["@abusix/eslint-config-react"],
 };
+```

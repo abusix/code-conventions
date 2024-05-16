@@ -1,27 +1,30 @@
 {
-	"version": "1.0.0",
-	"name": "code-conventions",
-	"description": "Code convention rules for eslint and prettier for Abusix projects",
-	"type": "commonjs",
-	"devDependencies": {
-		"@semantic-release/git": "^10.0.1",
-		"multi-semantic-release": "^3.0.2",
-		"semantic-release": "^21.0.7"
-	},
-	"workspaces": [
-		"packages/*"
-	],
-	"engines": {
-		"node": ">=18"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/abusix/code-conventions.git"
-	},
-	"bugs": {
-		"url": "https://github.com/abusix/code-conventions/issues"
-	},
-	"keywords": [],
-	"author": "abusix",
-	"license": "ISC"
+  "version": "1.0.0",
+  "name": "code-conventions",
+  "description": "Code convention rules for eslint and prettier for Abusix projects",
+  "license": "ISC",
+  "author": "abusix",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "volta": {
+    "node": "20.13.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css,scss,json,md}\""
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "multi-semantic-release": "^3.0.2",
+    "prettier": "^3.2.5",
+    "semantic-release": "^23.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abusix/code-conventions.git"
+  }
 }

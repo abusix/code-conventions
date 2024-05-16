@@ -1,23 +1,23 @@
 {
-	"name": "@abusix/eslint-config-prettier",
-	"version": "1.0.2",
-	"description": "Shared eslint prettier config for Abusix projects",
-	"main": ".eslintrc.cjs",
-	"files": [
-		".eslintrc.cjs",
-		".prettierignore"
-	],
-	"publishConfig": {
-		"access": "public"
-	},
-	"peerDependencies": {
-		"eslint": "^8.46.0",
-		"eslint-plugin-prettier": "^5.0.0",
-		"eslint-config-prettier": "^9.0.0",
-		"prettier": "^3.0.1",
-		"prettier-plugin-tailwindcss": "^0.4.1"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC"
+  "name": "@abusix/eslint-config-prettier",
+  "version": "1.0.2",
+  "description": "Shared eslint prettier config for Abusix projects",
+  "main": ".eslintrc.cjs",
+  "files": [
+    ".eslintrc.cjs",
+    ".prettierignore"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": "^8.46.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.0.1",
+    "prettier-plugin-tailwindcss": "^0.4.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

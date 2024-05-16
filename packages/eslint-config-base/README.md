@@ -14,7 +14,7 @@ Add the following to your `.eslintrc.js`:
 
 ```js
 module.exports = {
-  extends: ['@abusix/eslint-config-base'],
+  extends: ["@abusix/eslint-config-base"],
 };
 ```
 
