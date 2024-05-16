@@ -1,6 +1,6 @@
 # Abusix Code Conventions
 
-Code conventions for Abusix repos and projects. 
+Code conventions for Abusix repos and projects.
 
 ## Available Config Packages
 

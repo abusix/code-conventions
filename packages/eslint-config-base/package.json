@@ -1,23 +1,23 @@
 {
-	"name": "@abusix/eslint-config-base",
-	"version": "1.0.2",
-	"description": "Shared eslint configs for Abusix projects",
-	"main": ".eslintrc.cjs",
-	"files": [
-		".eslintrc.cjs",
-		"tsconfig.json"
-	],
-	"publishConfig": {
-		"access": "public"
-	},
-	"peerDependencies": {
-		"eslint": "^8.46.0",
-		"typescript": "^5.1.6",
-		"@typescript-eslint/eslint-plugin": "^6.3.0",
-		"@typescript-eslint/parser": "^6.3.0",
-		"eslint-plugin-import": "^2.28.0"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC"
+  "name": "@abusix/eslint-config-base",
+  "version": "1.0.2",
+  "description": "Shared eslint configs for Abusix projects",
+  "main": ".eslintrc.cjs",
+  "files": [
+    ".eslintrc.cjs",
+    "tsconfig.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": "^8.46.0",
+    "typescript": "^5.1.6",
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "@typescript-eslint/parser": "^6.3.0",
+    "eslint-plugin-import": "^2.28.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
