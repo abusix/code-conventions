@@ -20,8 +20,8 @@
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
     "multi-semantic-release": "^3.0.2",
-    "prettier": "^3.2.5",
-    "semantic-release": "^23.1.1"
+    "prettier": "^3.3.3",
+    "semantic-release": "^24.0.0"
   },
   "repository": {
     "type": "git",
