@@ -26,5 +26,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abusix/code-conventions.git"
+  },
+  "overrides": {
+	"semantic-release": "^24.0.0"
   }
 }
